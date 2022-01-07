@@ -4,7 +4,7 @@ Praticas da aula de introdução ao JavaScript- bootcamp Inter Frontend Develope
 ## No projeto Contador irar incrementa um numero ou decrementa.
 
 ## Acesse para ver o funcionamento do Contador 
-- [To-do list]https://katianne23.github.io/Introdu-o-ao-JavaScript/Contador/)
+- [Contador](https://katianne23.github.io/Introdu-o-ao-JavaScript/Contador/)
 
 ## No projeto To-do List foi criado uma simples lista de tarefas
 
